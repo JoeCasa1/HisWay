@@ -1,6 +1,6 @@
 # Privacy Policy
 
-At [Company Name], we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information when you visit our website or use our services.
+At New Prague Detailing, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information when you visit our website or use our services.
 
 ## Information We Collect
 
