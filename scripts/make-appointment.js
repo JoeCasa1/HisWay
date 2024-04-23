@@ -21,8 +21,7 @@ document.addEventListener("DOMContentLoaded", function() {
       // Test the email against the regex
       return emailRegex.test(email);
     }
-      
-  
+
     function isValidPhoneNumber(phone) {
       // Regular expression to match the specified phone number format
       const phoneRegex = /^(1[\s.-]?)?(\(\d{3}\)|\d{3})[\s.-]?\d{3}[\s.-]?\d{4}$/;

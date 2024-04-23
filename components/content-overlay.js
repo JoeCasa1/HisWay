@@ -22,10 +22,6 @@ class ContentOverlay extends HTMLElement {
       this.shadowRoot.querySelector(".modal-content").addEventListener("scroll", event => event.stopPropagation());
     }
 
-    // connectedCallback() {
-    //   src = this.getAttribute("src");
-    // }
-
     loadContent(src) {
       // Clear the existing content
       this.shadowRoot.querySelector(".markdown-content").innerHTML = "";
