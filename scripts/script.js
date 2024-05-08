@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     document.querySelector('.menu-button').addEventListener('click', function() {
       var menu = document.querySelector('.menu');
-      if (menu.style.display === 'none') {
+      if (menu.style.display !== 'block') {
         menu.style.display = 'block';
       } else {
         menu.style.display = 'none';
