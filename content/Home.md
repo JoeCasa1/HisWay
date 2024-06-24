@@ -1,5 +1,5 @@
 # Welcome to His Way Auto Detailing
 
-This is the first home paragraph.
+I'm awesome come to me.
 
 This is the second home paragraph.
